@@ -1,4 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=astraw99&show_icons=true&icon_color=blue&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+### Welcome to astraw99's world 👋
+
+- K8s, Go, Cloud Native, E-commerce, Payment...
+- 在技术和非技术的世界里，Work hard, play hard...
+- 非学，无以致疑；非问，无以广识。  
+- 分享一些技术点，一些思考或 idea，一些生活随笔等，保持持续进步！
+- 公众号：稻草人生
+
+![https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1](https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 <!--
 **astraw99/astraw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

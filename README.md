@@ -9,7 +9,7 @@
 - 分享一些技术点，一些思考或 idea，一些生活随笔等，保持持续进步！
 - 公众号：稻草人生
 
-![https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1](https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1](https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1)
 
 <!--
 **astraw99/astraw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

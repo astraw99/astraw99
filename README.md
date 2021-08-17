@@ -4,9 +4,9 @@
 ### Welcome to astraw99's world 👋
 
 - K8s, Go, Cloud Native, E-commerce, Payment...
-- 在技术和非技术的世界里: Work hard, play hard...
+- Work hard, play hard...
+- Share some articles/ideas/code, keep progressing :)
 - 非学，无以致疑；非问，无以广识。  
-- 分享一些技术点，一些思考或 idea，一些生活随笔等，保持进步！
 - 公众号：稻草人生
 
 ![https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1](https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1)

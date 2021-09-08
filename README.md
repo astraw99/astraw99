@@ -4,8 +4,8 @@
 ### Welcome to astraw99's world 👋
 
 - K8s, Go, Cloud Native, E-commerce, Payment...
-- Work hard, play hard...
-- Share some articles/ideas/code, keep progressing :)
+- Work hard, play hard. Keep progressing :)
+- [k8s-club](https://github.com/k8s-club/k8s-club), [etcd-operator](https://github.com/k8s-club/etcd-operator)
 - 非学，无以致疑；非问，无以广识。  
 - 公众号：稻草人生
 

@@ -9,7 +9,7 @@
 - 非学，无以致疑；非问，无以广识。  
 - 公众号：稻草人生
 
-![https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1](https://user-gold-cdn.xitu.io/2019/7/28/16c388381a48234b?imageView2/0/w/200/h/200/format/webp/ignore-error/1)
+<img alt="稻草人生" src="./images/qr_code.jpg" width="200" height="200" />
 
 <!--
 **astraw99/astraw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
